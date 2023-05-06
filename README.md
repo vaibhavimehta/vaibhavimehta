@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Vaibhavi Mehta (@vaibhavimehta)
 - 🎓 I am a Graduate Student at the University of Illinois at Urbana-Champaign, currently pursuing my Master of Science degree in Information Management.
 - 👀 I’m interested in Data Visualization, Data Analytics, Data Science, Machine Learning, and Technical Consulting.
-- 💻 I’m currently learning R and Python. I am working as a Data Scientist (Research Assistant) for The World Health Organization (WHO) at the Center for Health Informatics at University of Illinois at Urbana-Champaign. My project is aimed at preventing the spread of Covid-19 misinformation present in the world on the web.
-- 🎥 I also train scholars across United States (focusing on Historically Black Colleges and Universities) in several digital publishing platforms as a Graduate Technical Assistant at the University Library, for which I learnt Adobe Premiere Pro and the publishing tools on my own.
+- 💻 I’m currently learning R and Python. I have worked as a Data Analyst (Research Assistant) for The World Health Organization (WHO) at the Center for Health Informatics at University of Illinois at Urbana-Champaign. My project is aimed at preventing the spread of Covid-19 misinformation present in the world on the web.
+- 🎥 I have also trained scholars across United States (focusing on Historically Black Colleges and Universities) in several digital publishing platforms as a Graduate Technical Assistant at the University Library, for which I learnt Adobe Premiere Pro and the publishing tools on my own.
 - 🔗 I’m looking to collaborate on unique projects that help address issues affecting different aspects of our society, such as Health, Agriculture, Environment, Humanities, etc.. I am also interested in projects that help improve Business Processes, promote technological advancement, and overall help us communicate better with each other.
 - 💼 I would be happy to connect with you over LinkedIn: https://www.linkedin.com/in/vaibhavimehta/
 - 📧 Or you can send me an email at: vbvmehta@gmail.com
